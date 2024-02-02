@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "iconfont" /* Project id 4431253 */;
+  src: url("//at.alicdn.com/t/c/font_4431253_j5iy5v3fsoo.woff2?t=1706878210255") format('woff2'), url("//at.alicdn.com/t/c/font_4431253_j5iy5v3fsoo.woff?t=1706878210255") format('woff'), url("//at.alicdn.com/t/c/font_4431253_j5iy5v3fsoo.ttf?t=1706878210255") format('truetype');
+}
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-github:before {
+  content: "\e64c";
+}
+.icon-desktop:before {
+  content: "\e63d";
+  color: #10a4ff;
+}
+.icon-shejiaotubiao-01:before {
+  content: "\e641";
+}
+.icon-iconfontqqlanse:before {
+  content: "\e63f";
+}
+.icon-qq:before {
+  content: "\e60a";
+}
+.icon-weixin:before {
+  content: "\e620";
+  color: #5ccf40; /* 设置颜色 */
+}
